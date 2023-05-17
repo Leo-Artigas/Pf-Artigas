@@ -1,0 +1,20 @@
+/* reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+//import
+
+
+@import "html/general";
+@import "html/productos";
+@import "html/agenda";
+@import "html/contacto";
+@import "html/mq";
+
+
+
